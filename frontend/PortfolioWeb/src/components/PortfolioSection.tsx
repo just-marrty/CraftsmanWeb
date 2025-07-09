@@ -9,16 +9,16 @@ const PortfolioSection = () => {
         <div className="portfolio-grid">
           {/* Ukázky projektů */}
           <div className="portfolio-item">
-            <img src="/public/pergola.webp" alt="Pergola" />
+            <img src="/pergola.webp" alt="Pergola" />
             <p>Pergola na míru</p>
           </div>
           <div className="portfolio-item">
-            <img src="/public/altan.webp" alt="Altánek" />
+            <img src="/altan.webp" alt="Altánek" />
             <p>Zahradní altán</p>
           </div>
           <div className="portfolio-item">
-            <img src="/public/stul.webp" alt="Nábytek" />
-            <p>Rustikální stůl</p>
+            <img src="/stul.webp" alt="Nábytek" />
+            <p>Rustikální nábytek</p>
           </div>
         </div>
       </div>
